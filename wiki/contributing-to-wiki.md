@@ -40,10 +40,10 @@ Anyone can help. All edits are plain Markdown and tracked in Git.
 
 ### Accounts and Access
 
-To contribute, you need a GitHub account.
+To contribute, you need a [GitHub](https://github.com) account.
 
-- If using GitHub directly, sign in with your account before editing.
-- If using Prose.io, click the green button in the bottom right to connect your GitHub account. This allows you to save and commit your changes to the wiki.
+- When using GitHub directly, sign in with your account before editing.
+- When using Prose.io, click one of the three options in the second row, then use the green button in the bottom right to connect your GitHub account. This enables you to save and commit changes to the wiki.
 
 ### Editing Existing Pages
 
