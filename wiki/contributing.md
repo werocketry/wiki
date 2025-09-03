@@ -43,14 +43,6 @@ If you’re not comfortable editing directly, you can:
 - **Cite sources:** Reference documents, standards, or external links when possible.
 - **Organize:** Use headings, lists, and links to keep pages tidy.
 
-## For External Contributors
-
-We welcome outside help! If you have expertise or resources to share:
-
-- Use the edit or add page features as above.
-- If you’re contributing via GitHub/GitLab, submit a pull request with your changes.
-- For questions, contact the team via the info in the README or sidebar.
-
 ## Getting Help
 
 If you’re stuck or unsure how to contribute:
