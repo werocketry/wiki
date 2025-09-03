@@ -1,4 +1,4 @@
-# Contributing to the WE Rocketry Wiki
+# Contributing to the Wiki
 
 Welcome! This wiki is a collaborative knowledge base for the Western Engineering Rocketry Team. It’s designed to be easy for all members, regardless of technical background, to use, update, and improve. All contributors are welcome!
 
