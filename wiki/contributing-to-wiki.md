@@ -20,20 +20,23 @@ Anyone can help. All edits are plain Markdown and tracked in Git.
 
 ![Toolbar with GitHub actions on the first row, Prose.io actions on the second row, and a search box on the third.](../assets/editor-toolbar.png)
 
-**Top row (GitHub):**
+**Second row (Prose.io):** most contributors will want to use this option which features a simple in-browser editor.
 
-- `Add new` — create a new wiki page in GitHub.
+- `Add new` — create a new wiki page directly in your browser.
+- `Edit` — edit the current page directly in your browser.
+- `Add new post` — create a blog entry directly in your browser.  
+  All edits are still saved to GitHub automatically.
+
+**Top row (GitHub):** direct GitHub actions, useful for advanced contributors.
+
+- `Add new` — create a new wiki page via GitHub.
 - `Edit` — edit the current page in GitHub.
-- `Delete` — remove the current page. Prefer proposing deletions via Issues first.
+- `Delete` — remove the current page (open an Issue first if you didn’t create it).
 - `History` — view page revision history.
-- `Source` — open the raw Markdown in GitHub.
-- `Add new post` — create a blog post entry.
+- `Source` — open the raw Markdown file.
+- `Add new post` — create a blog entry via GitHub.
 
-**Second row (Prose.io):** in-browser editor backed by GitHub.
-
-- `Add new`, `Edit`, `Add new post` — same actions using Prose.io.
-
-**Third row:** site-wide search.
+**Third row:** search bar for navigating the wiki.
 
 ### Editing Existing Pages
 
