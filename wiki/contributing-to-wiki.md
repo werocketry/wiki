@@ -38,6 +38,13 @@ Anyone can help. All edits are plain Markdown and tracked in Git.
 
 **Third row:** site-wide search bar.
 
+### Accounts and Access
+
+To contribute, you need a GitHub account.
+
+- If using GitHub directly, sign in with your account before editing.
+- If using Prose.io, click the green button in the bottom right to connect your GitHub account. This allows you to save and commit your changes to the wiki.
+
 ### Editing Existing Pages
 
 1. Click `Edit` (Prose.io recommended, or GitHub).
