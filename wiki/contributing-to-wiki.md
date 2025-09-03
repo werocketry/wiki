@@ -48,11 +48,11 @@ Anyone can help. All edits are plain Markdown and tracked in Git.
 ### Adding New Pages
 
 - Use `Add new` (GitHub or Prose.io), or click a **red link** to auto-create a missing page.
+- Use `Add new post` for dated blog entries.
 - When naming your new file, keep the correct path and `.md` extension:
   - ✅ `wiki/how-to-be-good-at-rocketry.md`
   - ❌ `i-suck-at-rocketry`, `i-suck-at-rocketry.md`, or `wiki/i-suck-at-rocketry`
-  - The file name will initially be something like `wiki/2025-09-03-your-filename.md`
-- Use `Add new post` for dated blog entries.
+  - The file name will initially be something like `wiki/2025-09-03-your-filename.md`, or in the case of making a new post: `_posts/2025-09-03-your-filename.md`
 - After creating a page, link it from relevant pages or the sidebar.
 
 ### Suggesting Changes
