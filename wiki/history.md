@@ -1,4 +1,4 @@
-# History 
+# History
 
 The Western Engineering Rocketry Team was founded in **2016** as an engineering club at Western University, London, Ontario. It has since grown to include **30+ students** from diverse academic programs.
 
@@ -17,4 +17,3 @@ The Western Engineering Rocketry Team was founded in **2016** as an engineering 
 - **Hyperion (2024)**: Set to define the team's next milestone with innovative engineering designs.
 
 WE Rocketry continues to innovate, inspiring future engineers and driving progress in rocketry.
-
