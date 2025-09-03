@@ -20,43 +20,43 @@ Anyone can help. All edits are plain Markdown and tracked in Git.
 
 ![Toolbar with GitHub actions on the first row, Prose.io actions on the second row, and a search box on the third.](../assets/editor-toolbar.png)
 
-**Second row (Prose.io):** most contributors will want to use this option which features a simple in-browser editor.
+**Second row (Prose.io):** recommended for most contributors. Provides a simple in-browser editor.
 
-- `Add new` — create a new wiki page directly in your browser.
-- `Edit` — edit the current page directly in your browser.
-- `Add new post` — create a blog entry directly in your browser.  
-  All edits are still saved to GitHub automatically.
+- `Add new` — create a new wiki page.
+- `Edit` — edit the current page.
+- `Add new post` — create a blog entry.  
+  All changes are committed to GitHub automatically.
 
-**Top row (GitHub):** direct GitHub actions, useful for advanced contributors.
+**Top row (GitHub):** direct GitHub actions, better suited to advanced contributors.
 
-- `Add new` — create a new wiki page via GitHub.
+- `Add new` — create a new wiki page in GitHub.
 - `Edit` — edit the current page in GitHub.
 - `Delete` — remove the current page (open an Issue first if you didn’t create it).
 - `History` — view page revision history.
 - `Source` — open the raw Markdown file.
-- `Add new post` — create a blog entry via GitHub.
+- `Add new post` — create a blog entry in GitHub.
 
-**Third row:** search bar for navigating the wiki.
+**Third row:** site-wide search bar.
 
 ### Editing Existing Pages
 
-1. Click `Edit` (GitHub) or `Edit` under **Prose.io**.
+1. Click `Edit` (Prose.io recommended, or GitHub).
 2. Make changes in Markdown.
 3. Write a clear commit message and commit.
-   - If you’re working from a fork with GitHub, open a Pull Request.
+   - If editing from a fork in GitHub, open a Pull Request.
 
 ### Adding New Pages
 
-- Use `Add new` (GitHub or Prose.io), or click a **red link** to auto-create a missing page.
+- Use `Add new` (Prose.io or GitHub), or click a **red link** to auto-create a missing page.
 - Use `Add new post` for dated blog entries.
-- When naming your new file, keep the correct path and `.md` extension:
+- When naming your new file, keep the correct path prefix and `.md` extension:
   - ✅ `wiki/how-to-be-good-at-rocketry.md`
   - ❌ `i-suck-at-rocketry`, `i-suck-at-rocketry.md`, or `wiki/i-suck-at-rocketry`
-- Drafts initialize with a placeholder such as `wiki/2025-09-03-your-filename.md`, or `_posts/2025-09-03-your-filename.md` for blog posts.
+- Drafts initialize with placeholders such as `wiki/2025-09-03-your-filename.md`, or `_posts/2025-09-03-your-filename.md` for blog posts.
   - Always keep the date for posts.
-  - Always drop the date for general wiki pages unless the page is date-specific.
+  - Always remove the date for general wiki pages unless the page itself is date-specific.
   - Rename the placeholder to something meaningful before committing.
-- After creating a page, link it from relevant pages or possibly the sidebar. Only central or top-level pages belong in the sidebar, which must be edited in GitHub by a knowledgeable maintainer.
+- After creating a page, link it from relevant pages. Only central or top-level pages should appear in the sidebar, which must be updated in GitHub by a knowledgeable maintainer.
 
 ### Suggesting Changes
 
