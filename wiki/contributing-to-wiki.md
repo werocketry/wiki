@@ -52,8 +52,11 @@ Anyone can help. All edits are plain Markdown and tracked in Git.
 - When naming your new file, keep the correct path and `.md` extension:
   - ✅ `wiki/how-to-be-good-at-rocketry.md`
   - ❌ `i-suck-at-rocketry`, `i-suck-at-rocketry.md`, or `wiki/i-suck-at-rocketry`
-  - The file name will initially be something like `wiki/2025-09-03-your-filename.md`, or in the case of making a new post: `_posts/2025-09-03-your-filename.md`
-- After creating a page, link it from relevant pages or the sidebar.
+- Drafts initialize with a placeholder such as `wiki/2025-09-03-your-filename.md`, or `_posts/2025-09-03-your-filename.md` for blog posts.
+  - Always keep the date for posts.
+  - Always drop the date for general wiki pages unless the page is date-specific.
+  - Rename the placeholder to something meaningful before committing.
+- After creating a page, link it from relevant pages or possibly the sidebar. Only central or top-level pages belong in the sidebar, which must be edited in GitHub by a knowledgeable maintainer.
 
 ### Suggesting Changes
 
