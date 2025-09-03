@@ -14,26 +14,44 @@ This site contains our team’s history, procedures, technical documentation, an
 
 ## How to Contribute
 
-You don’t need to be a tech expert! Anyone can help keep our wiki up to date:
+Anyone can help. All edits are plain Markdown and tracked in Git.
+
+### Editor Toolbar
+
+![Toolbar with GitHub actions on the first row, Prose.io actions on the second row, and a search box on the third.](../assets/editor-toolbar.png)
+
+**Top row (GitHub):**
+
+- `Add new` — create a new wiki page in GitHub.
+- `Edit` — edit the current page in GitHub.
+- `Delete` — remove the current page. Prefer proposing deletions via Issues first.
+- `History` — view page revision history.
+- `Source` — open the raw Markdown in GitHub.
+- `Add new post` — create a blog post entry.
+
+**Second row (Prose.io):** in-browser editor backed by GitHub.
+
+- `Add new`, `Edit`, `Add new post` — same actions using Prose.io.
+
+**Third row:** site-wide search.
 
 ### Editing Existing Pages
 
-1. Click the “Edit” button (usually at the top or in the sidebar).
-2. Make your changes in the online editor (Markdown format).
-3. Save or submit your edits. Changes may be reviewed before publishing.
+1. Click `Edit` (GitHub) or `Edit` under **Prose.io**.
+2. Make changes in Markdown.
+3. Write a clear commit message and commit.
+   - If you’re working from a fork with GitHub, open a Pull Request.
 
 ### Adding New Pages
 
-1. Use the “Add Page” or “New Page” button (if available).
-2. Give your page a clear title and write your content in Markdown.
-3. Link your new page from relevant sections or the sidebar.
+- Use `Add new` (GitHub or Prose.io), or click a **red link** to auto-create a missing page.
+- Use `Add new post` for dated blog entries.
+- After creating a page, link it from relevant pages or the sidebar.
 
 ### Suggesting Changes
 
-If you’re not comfortable editing directly, you can:
-
-- Contact a team lead or wiki maintainer.
-- Open an issue or discussion (if enabled).
+- Open an Issue for proposals or questions.
+- Open a Pull Request for concrete edits.
 
 ## Contribution Guidelines
 
@@ -47,9 +65,9 @@ If you’re not comfortable editing directly, you can:
 
 If you’re stuck or unsure how to contribute:
 
-- Ask a team member for help.
-- Check the README for more info.
-- Reach out via the contact links in the sidebar.
+- Ask a team member or lead for help!
+- Check the [git-wiki main page](https://www.drassil.org/git-wiki/main_page) for more info on using the wiki itself.
+- Reach out via the [contacts page on our website](https://werocketry.western-ues.com/contact/).
 
 ---
 
